@@ -20,7 +20,7 @@ function App() {
       <Value/>
       <Contact/>
       <GetStarted/>
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   );
 }
