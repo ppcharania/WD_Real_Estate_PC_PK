@@ -91,7 +91,9 @@ a {
   border-radius: 4px;
   transition: all 300 ease-in; 
 }
-
+.icon{
+  background: #eeeeff;
+}
 .button:hover{
   cursor: pointer;
   transform: scale(1.1);
