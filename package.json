@@ -1,5 +1,4 @@
 {
-  "homepage": "https://ppcharania.github.io/WD_Real_Estate_PC_PK",
   "name": "realestate",
   "private": true,
   "version": "0.0.0",
@@ -7,9 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "predepoly": "npm run build",
-    "deploy": "gh-pages -d build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "framer-motion": "^10.8.5",
