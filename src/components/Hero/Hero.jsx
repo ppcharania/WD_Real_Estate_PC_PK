@@ -12,7 +12,7 @@ const Hero = () => {
                         <div className="orange-circle"></div>
                         <motion.h1 initial={{y:"2rem", opacity:0}} animate={{y:0, opacity:1 }} transition={{duration:2, type:"ease-in"}}>
                             Discover <br />
-                            Most suitable <br />
+                            Most Suitable <br />
                             Property
 
                         </motion.h1>

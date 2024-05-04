@@ -21,7 +21,7 @@ const Value = () => {
                 </div>
             </div>
             <div className='v-right flexColStart'>
-                <span className='orangeText'>Oue Value</span>
+                <span className='orangeText'>Our Value</span>
                 <span  className='primaryText'>Value We Give To You</span>
                 <span className='secondaryText'>
                     We are always there to help you by providing the best services to you.
