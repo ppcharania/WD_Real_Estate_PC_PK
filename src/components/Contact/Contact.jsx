@@ -9,7 +9,7 @@ const Contact = () => {
         <div className="paddings innerWidth flexCenter c-container">
             <div className="flexColStart c-left">
                 <span className='orangeText'>
-                    Our Contacts
+                    Contact Us
                 </span>
                 <span className='primaryText'>
                     Easy to Contact
